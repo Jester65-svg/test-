@@ -6,7 +6,7 @@ print(arr)
 b=arr.index(max(arr))
 arr[b],arr[-1]=arr[-1],arr[b]
 print(arr)
-
+#тест версии
 
 
 
